@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+.fleet
+.vscode
+.env
+.env.docker
+.env.staging
+.env.development
+.env.production
+*.key
+config.toml
+trusted.json
+*.feature
